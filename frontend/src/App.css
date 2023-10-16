@@ -1,0 +1,28 @@
+/* App.css */
+.navbar {
+  background-color: gray;
+}
+
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-title {
+  color: black;
+}
+
+.navbar-link {
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+}
+
+.wallet-button {
+  background-color: #4CAF50;
+}
+
+.connect-button {
+  background-color: #2196F3;
+}
